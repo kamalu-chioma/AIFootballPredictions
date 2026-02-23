@@ -1,6 +1,6 @@
 # AIFootballPredictions
 
-🎯 **AI Football Predictions: Will There Be Over 2.5 Goals?** 🎯
+** AI Football Predictions: Will There Be Over 2.5 Goals?** 🎯
 
 Check out the latest predictions for the upcoming football matches! We've analyzed the data and here are our thoughts:
  PREDICTIONS DONE: 2025-12-14 
